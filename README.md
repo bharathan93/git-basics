@@ -1,2 +1,3 @@
-# git-basics
-Sample
+More Information ! 
+
+Required
